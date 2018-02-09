@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: yuzwa2018.png
+alt: image-alt
+project-date: Jan 2018
+client: <a href="http://www.cell.com/cell-reports/abstract/S2211-1247(17)31813-2">Yuzwa et al, 2018</a>
+link: http://177.20.147.239:3838/DC-apps/Yuzwa2017/
+
+---

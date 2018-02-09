@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-17
+img: nowa2017.png
+alt: image-alt
+project-date: Dec 2017
+client: <a href="http://science.sciencemag.org/content/358/6368/1318.long">Nowakowski et al, 2017</a>
+link: http://177.20.147.239:3838/DC-apps/Nowa2017/
+
+---

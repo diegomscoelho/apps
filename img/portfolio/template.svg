@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:fi="http://pattern.flaticon.com/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   x="0"
+   y="0"
+   width="900"
+   height="650"
+   viewBox="0 0 900 650"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="template.svg"
+   inkscape:export-filename="/home/dcoelho/Documents/Doutorado/NeuSinCell/Shiny/apps/img/portfolio/csanz.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata75">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview73"
+     showgrid="false"
+     inkscape:zoom="0.99362558"
+     inkscape:cx="268.85565"
+     inkscape:cy="237.45297"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     x="0px"
+     y="0px"
+     width="100%"
+     height="100%"
+     opacity="1"
+     fill="#000000"
+     id="rect4"
+     style="fill:#d35f5f"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     fi:class="KUsePattern"
+     id="g27"
+     transform="translate(456.04027,-264.83221)">
+    <pattern
+       id="pattern_L1_0"
+       width="350"
+       height="350"
+       patternUnits="userSpaceOnUse">
+      <use
+         xlink:href="#L1_0"
+         x="-350"
+         y="-350"
+         id="use30" />
+      <use
+         xlink:href="#L1_0"
+         x="0"
+         y="-350"
+         id="use32" />
+      <use
+         xlink:href="#L1_0"
+         x="350"
+         y="-350"
+         id="use34" />
+      <use
+         xlink:href="#L1_0"
+         x="-350"
+         y="0"
+         id="use36" />
+      <use
+         xlink:href="#L1_0"
+         x="0"
+         y="0"
+         id="use38" />
+      <use
+         xlink:href="#L1_0"
+         x="350"
+         y="0"
+         id="use40" />
+      <use
+         xlink:href="#L1_0"
+         x="-350"
+         y="350"
+         id="use42" />
+      <use
+         xlink:href="#L1_0"
+         x="0"
+         y="350"
+         id="use44" />
+      <use
+         xlink:href="#L1_0"
+         x="350"
+         y="350"
+         id="use46" />
+    </pattern>
+    <rect
+       x="-456.3403"
+       y="266.90921"
+       width="900"
+       height="650"
+       id="rect48"
+       style="fill:url(#pattern3455)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <defs
+     id="defs6">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern_L1_0"
+       id="pattern3455"
+       patternTransform="translate(-456.34027,266.90919)" />
+    <g
+       transform="matrix(-2.3308377546702383e-17 0.3806546926498413 0.3806546926498413 2.3308377546702383e-17 -0.44739130543644023 59.55234008789057)"
+       id="L1_0">
+      <path
+         d="M260.655,361.891c-37.236-17.455-65.164-37.236-81.455-59.345h123.345c6.982,0,11.636-4.655,11.636-11.636    s-4.655-11.636-11.636-11.636H167.564c-2.327-8.145-4.655-15.127-4.655-23.273c0-36.073,30.255-64,54.691-81.455    c5.818-3.491,6.982-10.473,3.491-16.291s-10.473-6.982-16.291-3.491c-43.055,30.255-65.164,65.164-65.164,101.236    c0,48.873,39.564,94.255,111.709,126.836c43.055,19.782,73.309,44.218,88.436,70.982H209.455c-6.982,0-11.636,4.655-11.636,11.636    c0,6.982,4.655,11.636,11.636,11.636h138.473c1.164,3.491,1.164,8.145,1.164,11.636v11.636c0,6.982,4.655,11.636,11.636,11.636    s11.636-4.655,11.636-11.636v-11.636C372.364,439.855,332.8,394.473,260.655,361.891z"
+         fill="#ffffff"
+         id="path9" />
+      <path
+         d="M221.091,390.982c-3.491-5.818-10.473-6.982-16.291-3.491c-43.055,30.255-65.164,65.164-65.164,101.236v11.636    c0,6.982,4.655,11.636,11.636,11.636c6.982,0,11.636-4.655,11.636-11.636v-11.636c0-36.073,30.255-64,54.691-81.455    C223.418,403.782,224.582,396.8,221.091,390.982z"
+         fill="#ffffff"
+         id="path11" />
+      <path
+         d="M260.655,129.164c-43.055-19.782-73.309-44.218-88.436-70.982h130.327c6.982,0,11.636-4.655,11.636-11.636    s-4.655-11.636-11.636-11.636H164.073c-1.164-3.491-1.164-8.146-1.164-11.636V11.636C162.909,4.655,158.255,0,151.273,0    c-6.982,0-11.636,4.655-11.636,11.636v11.636c0,48.873,39.564,94.255,111.709,126.836c37.236,17.455,65.164,37.236,81.455,59.345    H209.455c-6.982,0-11.636,4.655-11.636,11.636c0,6.982,4.655,11.636,11.636,11.636h134.982c2.327,8.145,4.655,15.127,4.655,23.273    c0,36.073-30.255,65.164-55.855,82.618c-5.818,3.491-6.982,10.473-3.491,16.291c2.327,3.491,5.818,4.655,9.309,4.655    c2.327,0,4.655-1.164,6.982-2.327c43.055-29.091,66.327-64,66.327-101.236C372.364,207.127,332.8,161.745,260.655,129.164z"
+         fill="#ffffff"
+         id="path13" />
+      <path
+         d="M360.727,0c-6.982,0-11.636,4.655-11.636,11.636v11.636c0,36.073-30.255,65.164-55.855,82.618    c-5.818,3.491-6.982,10.473-3.491,16.291c2.327,3.491,5.818,4.655,9.309,4.655c2.327,0,4.655-1.164,6.982-2.327    c43.055-29.091,66.327-64,66.327-101.236V11.636C372.364,4.655,367.709,0,360.727,0z"
+         fill="#ffffff"
+         id="path15" />
+    </g>
+    <g
+       transform="matrix(-2.3308377546702383e-17 0.3806546926498413 0.3806546926498413 2.3308377546702383e-17 158.55260869456356 208.55234008789057)"
+       id="g17">
+      <path
+         d="M260.655,361.891c-37.236-17.455-65.164-37.236-81.455-59.345h123.345c6.982,0,11.636-4.655,11.636-11.636    s-4.655-11.636-11.636-11.636H167.564c-2.327-8.145-4.655-15.127-4.655-23.273c0-36.073,30.255-64,54.691-81.455    c5.818-3.491,6.982-10.473,3.491-16.291s-10.473-6.982-16.291-3.491c-43.055,30.255-65.164,65.164-65.164,101.236    c0,48.873,39.564,94.255,111.709,126.836c43.055,19.782,73.309,44.218,88.436,70.982H209.455c-6.982,0-11.636,4.655-11.636,11.636    c0,6.982,4.655,11.636,11.636,11.636h138.473c1.164,3.491,1.164,8.145,1.164,11.636v11.636c0,6.982,4.655,11.636,11.636,11.636    s11.636-4.655,11.636-11.636v-11.636C372.364,439.855,332.8,394.473,260.655,361.891z"
+         fill="#ffffff"
+         id="path19" />
+      <path
+         d="M221.091,390.982c-3.491-5.818-10.473-6.982-16.291-3.491c-43.055,30.255-65.164,65.164-65.164,101.236v11.636    c0,6.982,4.655,11.636,11.636,11.636c6.982,0,11.636-4.655,11.636-11.636v-11.636c0-36.073,30.255-64,54.691-81.455    C223.418,403.782,224.582,396.8,221.091,390.982z"
+         fill="#ffffff"
+         id="path21" />
+      <path
+         d="M260.655,129.164c-43.055-19.782-73.309-44.218-88.436-70.982h130.327c6.982,0,11.636-4.655,11.636-11.636    s-4.655-11.636-11.636-11.636H164.073c-1.164-3.491-1.164-8.146-1.164-11.636V11.636C162.909,4.655,158.255,0,151.273,0    c-6.982,0-11.636,4.655-11.636,11.636v11.636c0,48.873,39.564,94.255,111.709,126.836c37.236,17.455,65.164,37.236,81.455,59.345    H209.455c-6.982,0-11.636,4.655-11.636,11.636c0,6.982,4.655,11.636,11.636,11.636h134.982c2.327,8.145,4.655,15.127,4.655,23.273    c0,36.073-30.255,65.164-55.855,82.618c-5.818,3.491-6.982,10.473-3.491,16.291c2.327,3.491,5.818,4.655,9.309,4.655    c2.327,0,4.655-1.164,6.982-2.327c43.055-29.091,66.327-64,66.327-101.236C372.364,207.127,332.8,161.745,260.655,129.164z"
+         fill="#ffffff"
+         id="path23" />
+      <path
+         d="M360.727,0c-6.982,0-11.636,4.655-11.636,11.636v11.636c0,36.073-30.255,65.164-55.855,82.618    c-5.818,3.491-6.982,10.473-3.491,16.291c2.327,3.491,5.818,4.655,9.309,4.655c2.327,0,4.655-1.164,6.982-2.327    c43.055-29.091,66.327-64,66.327-101.236V11.636C372.364,4.655,367.709,0,360.727,0z"
+         fill="#ffffff"
+         id="path25" />
+    </g>
+  </defs>
+  <ellipse
+     style="fill:#ffffff"
+     id="path3403"
+     cx="450"
+     cy="325"
+     rx="275.68118"
+     ry="270.30203" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3407"
+     style="font-style:normal;font-weight:normal;font-size:87.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(-1.4855347,49.990632)"><flowRegion
+       id="flowRegion3409"><rect
+         id="rect3411"
+         width="450"
+         height="289.93289"
+         x="223.48993"
+         y="172.81879"
+         style="font-size:87.5px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.25px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       id="flowPara3509">Sanz</flowPara><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.25px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       id="flowPara3513">Dataset</flowPara></flowRoot></svg>

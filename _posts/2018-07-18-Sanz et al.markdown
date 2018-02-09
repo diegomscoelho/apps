@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-18
+img: csanz.png
+alt: image-alt
+project-date: In progress
+client: <a href=https://www.researchgate.net/profile/Cristina_Gil-Sanz>Cristina Gil-Sanz</a>
+link: http://177.20.147.239:3838/DC-apps/Csanz/
+
+---

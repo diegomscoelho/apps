@@ -14,25 +14,30 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" style="width: 75%; height: 75%">
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
-                                    <li>Author:
+                                    <li>Client:
                                         <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.project-date %}
                                     <li>Date:
-                                        <strong>{{ post.project-date }}
+                                        <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.category %}
+                                    <li>Service:
+                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                             </ul>
-                            <a class="btn btn-default" href="{{ post.link }}">App</a>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

@@ -1,5 +1,4 @@
-SingleCellApp  [![Build Status](https://diegomscoelho.github.io/sincellapp/)](https://diegomscoelho.github.io/sincellapp/)
-=========================
+Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/)
 
 ## Project
 

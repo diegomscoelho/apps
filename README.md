@@ -1,4 +1,4 @@
-SingleCellApp  [![Build Status](https://diegomscoelho.github.io/sincellapp/)]
+SingleCellApp  [![Build Status](https://diegomscoelho.github.io/sincellapp/)](https://diegomscoelho.github.io/sincellapp/)
 =========================
 
 ## Project
